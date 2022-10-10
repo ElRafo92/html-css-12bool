@@ -8,6 +8,9 @@
 
 .debug {
     background-color: black;
+    color: transparent;
+    padding: 1.875rem;
+    border: 1px solid white;
 }
 
 .gutter-top {
