@@ -32,6 +32,16 @@
     text-align: center;
 }
 
+/* ==================================
+=====================================
+            CONTAINER
+=====================================
+================================== */
+
+.container {
+    max-width: 62.5rem;
+    margin: auto;
+}
 
 /* ==================================
 =====================================
@@ -42,17 +52,6 @@
 .row {
     display: flex;
     flex-wrap: wrap;
-}
-
-/* ==================================
-=====================================
-            CONTAINER
-=====================================
-================================== */
-
-.container {
-    max-width: 62.5rem;
-    margin: auto;
 }
 
 /* ==================================
@@ -108,3 +107,112 @@
 .col-12 {
     width: calc(100% / 12 * 12);
 }
+
+/* ==================================
+=====================================
+        FRAMEWORK OFFSET
+=====================================
+================================== */
+
+/* ================
+        LEFT
+   ================ */
+.col-offset-left-1 {
+    margin-left: calc(100% / 12 * 1);
+}
+
+.col-offset-left-2 {
+    margin-left: calc(100% / 12 * 2);
+}
+
+.col-offset-left-3 {
+    margin-left: calc(100% / 12 * 3);
+}
+
+.col-offset-left-4 {
+    margin-left: calc(100% / 12 * 4);
+}
+
+.col-offset-left-5 {
+    margin-left: calc(100% / 12 * 5);
+}
+
+.col-offset-left-6 {
+    margin-left: calc(100% / 12 * 6);
+}
+
+.col-offset-left-7 {
+    margin-left: calc(100% / 12 * 7);
+}
+
+.col-offset-left-8 {
+    margin-left: calc(100% / 12 * 8);
+}
+
+.col-offset-left-9 {
+    margin-left: calc(100% / 12 * 9);
+}
+
+.col-offset-left-10 {
+    margin-left: calc(100% / 12 * 10);
+}
+
+.col-offset-left-11 {
+    margin-left: calc(100% / 12 * 11);
+}
+
+.col-offset-left-12 {
+    margin-left: calc(100% / 12 * 12);
+}
+
+/* ================
+        RIGHT
+   ================ */
+   .col-offset-right-1 {
+    margin-right: calc(100% / 12 * 1);
+}
+
+.col-offset-right-2 {
+    margin-right: calc(100% / 12 * 2);
+}
+
+.col-offset-right-3 {
+    margin-right: calc(100% / 12 * 3);
+}
+
+.col-offset-right-4 {
+    margin-right: calc(100% / 12 * 4);
+}
+
+.col-offset-right-5 {
+    margin-right: calc(100% / 12 * 5);
+}
+
+.col-offset-right-6 {
+    margin-right: calc(100% / 12 * 6);
+}
+
+.col-offset-right-7 {
+    margin-right: calc(100% / 12 * 7);
+}
+
+.col-offset-right-8 {
+    margin-right: calc(100% / 12 * 8);
+}
+
+.col-offset-right-9 {
+    margin-right: calc(100% / 12 * 9);
+}
+
+.col-offset-right-10 {
+    margin-right: calc(100% / 12 * 10);
+}
+
+.col-offset-right-11 {
+    margin-right: calc(100% / 12 * 11);
+}
+
+.col-offset-right-12 {
+    margin-right: calc(100% / 12 * 12);
+}
+
