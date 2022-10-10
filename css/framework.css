@@ -12,6 +12,29 @@
 
 /* ==================================
 =====================================
+            DEBUG
+=====================================
+================================== */
+
+.debug {
+    background-color: black;
+    border: 1px solid lime;
+    color: lime;
+    padding: 10px;
+    text-align: center;
+}
+
+.debug2 {
+    background-color: lime;
+    border: 1px solid black;
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+
+/* ==================================
+=====================================
             CORE 
 =====================================
 ================================== */
