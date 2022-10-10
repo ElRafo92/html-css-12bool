@@ -30,12 +30,26 @@
 
 /* ==================================
 =====================================
-            VARIABLES
+            COLORI
 =====================================
 ================================== */
 
-:root {
-    --red: #d22b07;
-    --skin: #e6b044;
-    --shirt: #854f13;
+.red {
+    background-color: #d22b07;
+}
+
+.skin {
+    background-color: #e6b044;
+}
+
+.shirt {
+    background-color: #854f13;
+}
+
+.hair {
+    background-color: #875413;
+}
+
+.btn {
+    background-color: #e7b425;
 }
